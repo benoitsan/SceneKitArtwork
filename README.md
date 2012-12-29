@@ -12,7 +12,7 @@ Features:
 
 *You can control the camera position using your mouse and CMD / ALT keys.*
 
-<img width=480 src="Screenshots/mainWindow.png"/>
+<img width=480 src="https://raw.github.com/benoitsan/SceneKitArtwork/master/Screenshots/mainWindow.png"/>
 
 
 ## Creator
