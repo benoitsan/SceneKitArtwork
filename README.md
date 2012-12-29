@@ -10,6 +10,8 @@ Features:
 * Lighting on/off. While the lighting is enabled, clicking on an artwork box moves a spot on it.
 * Display/hide an extruded title on the artwork back side.
 
+*You can control the camera position using your mouse and CMD / ALT keys.*
+
 <img width=480 src="Screenshots/mainWindow.png"/>
 
 
